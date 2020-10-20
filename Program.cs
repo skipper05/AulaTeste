@@ -7,6 +7,7 @@ namespace GitHub_Teste
         static void Main(string[] args)
         {
             Console.WriteLine("Olá Mundo!");
+            Console.WriteLine("Bom dia srs");
             Console.ReadLine();
 
 
