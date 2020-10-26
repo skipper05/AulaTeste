@@ -8,7 +8,7 @@ namespace GitHub_Teste
         {
             Console.WriteLine("Olá Mundo!");
             Console.WriteLine("Bom dia srs");
-            Console.WriteLine("How are you? ");
+            Console.WriteLine("Como esta voce hoje diaa 26/10? ");
             Console.ReadLine();
 
 
